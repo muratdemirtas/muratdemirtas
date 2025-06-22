@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fullstackcoder</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Embedded Software Engineer from Turkey </h3>
+
+<h3 align="center">I have developed technology for years—often under challenging circumstances, even when I had no financial resources. Today, there are over 100,000 products across various sectors worldwide that run software I developed entirely on my own. Our technology transferred from Istanbul, Turkey, has spread worldwide, including to America, Europe, Africa and other regions.
+
+Many of the individuals who now serve as CEOs and CTOs at Türkiye's leading technology companies, as well as co-founders of highly potential unicorn startups, were once my managers during the early stages of my career.
+
+Throughout my career, I've collaborated with over 70+engineers across disciplines, including hardware, software, mechanical, mechatronics, backend, frontend, DevOps, and mobile development. I've also worked closely with numerous electronics technicians.
+
+I took part in major projects such as Altay Main Battle Tank V12 Diesel Engine, Türkiye’s first domestically produced tank; Tümosan 3.5 Diesel Forklift, the country’s first locally manufactured forklift; Turkcell Filiz; Doktar Pesttrap, and an HVAC project for the largest HVAC manufacturer in both Türkiye and Europe. With the aesthetic devices we have developed, people are receiving treatments in the United States and Europe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratdemirtas&label=Profile%20views&color=0e75b6&style=flat" alt="muratdemirtas" /> </p>
 
