@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fullstackcoder</h1>
 <h3 align="center">A passionate Embedded Software Engineer from Turkey </h3>
 
-<h5 align="left">I have developed technology for years—often under challenging circumstances, even when I had no financial resources. Today, there are over 100,000 products across various sectors worldwide that run software I developed entirely on my own. Our technology transferred from Istanbul, Turkey, has spread worldwide, including to America, Europe, Africa and other regions.
+<h5 align="left">I have developed technology for years—often under challenging circumstances, even when I had no financial resources. Today, there are over +10000 products across various sectors worldwide that run software I developed entirely on my own. Our technology transferred from Istanbul, Turkey, has spread worldwide, including to America, Europe, Africa and other regions.
 
 Many of the individuals who now serve as CEOs and CTOs at Türkiye's leading technology companies, as well as co-founders of highly potential unicorn startups, were once my managers during the early stages of my career.
 
